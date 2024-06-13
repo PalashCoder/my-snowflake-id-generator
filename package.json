@@ -1,7 +1,7 @@
 {
   "name": "my-snowflake-id-generator",
   "version": "2.0.0",
-  "description": "A simple Snowflake ID generator",
+  "description": "A simple Snowflake ID generator with customizable ID length and format.",
   "main": "server.js",
   "scripts": {
     "test": "mocha"
@@ -15,7 +15,9 @@
     "id",
     "generator",
     "unique",
-    "identifier"
+    "identifier",
+    "hexadecimal",
+    "decimal"
   ],
   "author": "Palash Das",
   "license": "MIT",
