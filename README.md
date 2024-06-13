@@ -7,7 +7,7 @@ npm install my-snowflake-id-generator
 Then
 
 ```
-const SnowflakeGenerator = require('snowflake-id-generator');
+const SnowflakeGenerator = require('my-snowflake-id-generator');
 const generator = new SnowflakeGenerator(1, 1);
 
 // Generate a numeric ID of length 16
