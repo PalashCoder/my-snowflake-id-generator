@@ -1,6 +1,6 @@
 {
   "name": "my-snowflake-id-generator",
-  "version": "2.0.0",
+  "version": "3.0",
   "description": "A simple Snowflake ID generator with customizable ID length and format.",
   "main": "server.js",
   "scripts": {
