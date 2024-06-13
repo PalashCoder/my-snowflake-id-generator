@@ -1,0 +1,26 @@
+{
+  "name": "snowflake-id-generator",
+  "version": "1.0.0",
+  "description": "A simple Snowflake ID generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PalashCoder/snowflake-id-generator"
+  },
+  "keywords": [
+    "snowflake",
+    "id",
+    "generator",
+    "unique",
+    "identifier"
+  ],
+  "author": "Palash Das",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "chai": "^4.0.0"
+  }
+}
